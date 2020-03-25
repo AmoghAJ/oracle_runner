@@ -1,0 +1,4 @@
+**.pyc
+__pycache__/
+local.config
+venv-3.6/**
